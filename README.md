@@ -167,19 +167,19 @@ index.html
 
 ## OUTPUT:
 
-![alt text](<Screenshot (87)-1.png>)
+![alt text](<Screenshot (94)-1.png>) 
 
-![alt text](<Screenshot (81)-1.png>) 
+![alt text](<Screenshot (88)-1.png>) 
 
-![alt text](<Screenshot (82)-1.png>) 
+![alt text](<Screenshot (89)-1.png>) 
 
-![alt text](<Screenshot (83)-1.png>) 
+![alt text](<Screenshot (90)-1.png>) 
 
-![alt text](<Screenshot (84)-1.png>) 
+![alt text](<Screenshot (91)-1.png>) 
 
-![alt text](<Screenshot (85)-1.png>) 
+![alt text](<Screenshot (92)-1.png>) 
 
-![alt text](<Screenshot (86)-1.png>)
+![alt text](<Screenshot (93)-1.png>)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
